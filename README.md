@@ -7,12 +7,12 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=My+Languages)](https://git.io/typing-svg)
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,figma,css,dotnet,gradle,html,js,maven,nextjs,npm,py,linux,spring,ts,docker,react,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,css,dotnet,gradle,html,js,maven,nextjs,npm,py,linux,spring,ts,docker,react,windows&theme=dark)](https://skillicons.dev)
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC00F7&width=435&lines=Tools)](https://git.io/typing-svg)
-[![My Skills](https://skillicons.dev/icons?i=github,idea,git,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,idea,git,visualstudio,figma,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
