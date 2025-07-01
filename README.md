@@ -12,8 +12,12 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC00F7&width=435&lines=Tools)](https://git.io/typing-svg)
-
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,figma)](https://skillicons.dev)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79845&width=435&lines=%F0%9F%93%AB+Reach+me+)](https://git.io/typing-svg)
+
 
 ---
 
