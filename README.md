@@ -18,6 +18,7 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79845&width=435&lines=%F0%9F%93%AB+Reach+me+)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/nicolas-guinante-cavalcanti-036407309/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
 <a href = "nguinante@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
