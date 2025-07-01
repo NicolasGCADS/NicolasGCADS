@@ -4,6 +4,10 @@
 
 🌐 Experiência com **REST APIs**, **Entity Framework Core**, **Oracle SQL**
 
+📚 Busco desafios, problemas e soluções inovadoras para me aprimorar como desenvolvedor
+
+💼 Buscando um oportunidade de trabalhar
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=My+Languages)](https://git.io/typing-svg)
