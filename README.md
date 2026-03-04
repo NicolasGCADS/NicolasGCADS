@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+Nicolas)](https://git.io/typing-svg)
 
-🎓 Análise e Desenvolvimento em Sistema - FIAP 
+🎓 Análise e Desenvolvimento em Sistema 2023/2025 - FIAP 
+
+🎓 Engenharia de Software 2026/Atual - FIAP 
 
 🌐 Experiência com **REST APIs**, **Entity Framework Core**, **Oracle SQL**
 
